@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a trainne software engineer at Code Your Future. I love coding and programming.
+Working on; 
+-Web development,
+-Full stack enginnering,
+-Data anlysis
 <!--
 **ISTANBULBEKLE/ISTANBULBEKLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
