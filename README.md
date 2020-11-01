@@ -11,3 +11,5 @@ Data analysis.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=istanbulbekle)](https://github.com/istanbulbekle/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=istanbulbekle&repo=github-readme-stats)](https://github.com/istanbulbekle/github-readme-stats)
+
