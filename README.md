@@ -3,7 +3,7 @@
 I am a trainee software engineer at Code Your Future.
 I am working on; 
 Web development,
-Full stack enginnering,and
+Full stack engineering,and
 Data analysis.
 
 
