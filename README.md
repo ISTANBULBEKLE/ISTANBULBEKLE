@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am a trainee software engineer at Code Your Future. I love coding and programming.
-Working on; 
+I am a trainee software engineer at Code Your Future.
+I am working on; 
 Web development,
 Full stack enginnering,and
 Data analysis.
