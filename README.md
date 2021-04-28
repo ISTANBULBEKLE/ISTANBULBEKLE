@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I am a trainee software engineer at Code Your Future.
-I am working on; 
+I am a software engineer at Capgemini.
+I work on; 
 Web development,
-Full stack engineering,and
+Full stack engineering,
+Play framework with Scala and
 Data analysis.
 
 
