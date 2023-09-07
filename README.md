@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-I am a software engineer at Capgemini.
+I am a software engineer at Next Gen Engineering part of Accenture.
 I work on; 
 Web development,
-Full stack engineering,
+Full Stack Engineering,
+IOS Mobile App Developement,
+React Native Mobile App Development
 Play framework with Scala and
 Data analysis.
 
